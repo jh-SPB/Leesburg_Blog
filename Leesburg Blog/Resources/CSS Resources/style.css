@@ -6,11 +6,23 @@ p {
     color: blue;
 }
 
+.nav {
+    padding: 15px;
+    border: 5px solid blue;
+    background-color: aliceblue;
+}
+
 a[href*='blog'] {
     color: red;
 }
 
-a.highlight:hover {
+a.nav:hover {
     color:blue;
     font-size: 22px;
+}
+
+#topnav {
+    text-align: center;
+    margin: 50px;
+    background-color: beige;
 }
