@@ -1,15 +1,35 @@
 p {
-    color: green;
+    font-family: 'Josefin sans',sans-serif;
+    color: black;
+    text-align: center;
 }
 
 .title {
     color: blue;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Alfa Slab One',sans-serif;
+    letter-spacing: 0.1em;
 }
 
 .nav {
     padding: 15px;
     border: 5px solid blue;
     background-color: aliceblue;
+}
+
+#downtown-Leesburg {
+    padding: 25px;
+    text-align: center;
+}
+
+#media {
+    text-align: center;
+}
+
+#title-scenery {
+    font-size: 30px;
+    color: blue;
 }
 
 a[href*='blog'] {
