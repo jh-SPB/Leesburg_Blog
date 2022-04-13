@@ -1,6 +1,10 @@
+html {
+    background-color: rgb(215, 215, 255);
+}
+
 p {
     font-family: 'Josefin sans',sans-serif;
-    color: black;
+    color: rgb(255, 72, 0);
     text-align: center;
 }
 
